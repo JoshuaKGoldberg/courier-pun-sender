@@ -1,6 +1,6 @@
 # Courier Pun Sender
 
-Sends a random pun over email & text to a lucky recipient!
+Sends a random pun over email & text to a lucky recipient! ✨
 
 ## Setup
 
