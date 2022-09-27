@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "node-fetch": "^2.6.7",
+    "puns.dev": "^0.2.2"
+  }
+}
